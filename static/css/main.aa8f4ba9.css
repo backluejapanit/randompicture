@@ -1,0 +1,2 @@
+.custom__row{display:flex;flex-wrap:wrap;padding:0 4px}.custom__column{flex:25% 1;max-width:25%;padding:0 4px}.custom__column img{margin-top:8px;object-fit:cover;vertical-align:middle;width:100%}@media screen and (max-width:800px){.custom__column{flex:50% 1;max-width:50%}}@media screen and (max-width:600px){.custom__column{flex:100% 1;max-width:100%}}.custom__image{height:200px!important;width:50%}
+/*# sourceMappingURL=main.aa8f4ba9.css.map*/
